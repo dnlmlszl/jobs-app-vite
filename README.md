@@ -1,0 +1,1 @@
+Frontend application for the jobs-API backend project.
